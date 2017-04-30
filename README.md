@@ -1,7 +1,7 @@
 # MyPrime
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
-Referred from https://github.com/cornflourblue/angular2-registration-login-example-webpack
+References https://github.com/cornflourblue/angular2-registration-login-example-webpack
 
 ## Development server
 
